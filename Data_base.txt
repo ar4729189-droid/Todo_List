@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+adding task
+=======
+creating element
+creating element
+doing some work
+doing a work
+greating
+manage data
+>>>>>>> bb6181e7181f0e22e638b3aa02edd1ead507c110
